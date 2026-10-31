@@ -1,0 +1,16 @@
+# Secrets and local settings
+.env
+*.pem
+*.key
+credentials*.json
+service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS and editors
+.DS_Store
+.vscode/
